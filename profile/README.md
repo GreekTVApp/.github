@@ -1,4 +1,4 @@
-  <p align="center">
+<p align="center">
   <a href="https://greektv.app"><img src="https://greektv.app/img/github_logo.png" />
 </p>
       
